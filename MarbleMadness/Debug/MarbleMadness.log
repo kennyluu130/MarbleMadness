@@ -1,0 +1,16 @@
+﻿  Actor.cpp
+  GameController.cpp
+  GameWorld.cpp
+  main.cpp
+  StudentWorld.cpp
+C:\Users\kemin\OneDrive\Documents\Project\MarbleMadness\MarbleMadness\StudentWorld.cpp(328,31): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\kemin\OneDrive\Documents\Project\MarbleMadness\MarbleMadness\StudentWorld.cpp(329,17): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\kemin\OneDrive\Documents\Project\MarbleMadness\MarbleMadness\StudentWorld.cpp(340,17): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\kemin\OneDrive\Documents\Project\MarbleMadness\MarbleMadness\StudentWorld.cpp(341,31): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\kemin\OneDrive\Documents\Project\MarbleMadness\MarbleMadness\StudentWorld.cpp(352,17): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\kemin\OneDrive\Documents\Project\MarbleMadness\MarbleMadness\StudentWorld.cpp(353,31): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\kemin\OneDrive\Documents\Project\MarbleMadness\MarbleMadness\StudentWorld.cpp(366,31): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\kemin\OneDrive\Documents\Project\MarbleMadness\MarbleMadness\StudentWorld.cpp(367,17): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  Generating Code...
+  LINK : C:\Users\kemin\OneDrive\Documents\Project\MarbleMadness\Debug\MarbleMadness.exe not found or not built by the last incremental link; performing full link
+  MarbleMadness.vcxproj -> C:\Users\kemin\OneDrive\Documents\Project\MarbleMadness\Debug\MarbleMadness.exe
